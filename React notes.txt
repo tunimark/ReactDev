@@ -1,0 +1,24 @@
+Create a React project
+*****************************************************************************************************
+
+1. Open terminal ctrl and ö
+
+2. always check Node and Npm version on your machine
+    -> node -v
+    -> npm -v
+
+3. To create the project type following command into terminal:
+    - npx create-react-app <app name> (command without < > no upper case letters in name)
+    - takes about 5 to 10 min
+
+4. Default port is 3000
+    - if port is busy, it can be customized 
+
+5. After app (in this case "testapp") creation is finished do following commands in terminal 
+    - cd .\testapp
+    - npm start
+
+6. React app should open in browser
+
+Mission #1 complete
+*****************************************************************************************************
